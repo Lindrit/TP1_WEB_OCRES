@@ -1,0 +1,56 @@
+body{
+	background-color: #CCCCCC;
+}
+.page{
+	width: 780px;
+	margin:auto;
+	font-size: 16px;
+}
+.infophoto{
+	height: 250px;
+}
+.info{
+	float: left;
+}
+.photo{
+	float: right;
+}
+img{
+	width: 250px;
+}
+strong{
+	font-size: 26px;
+}
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+h2{
+	font-size: 28px;
+	color: #FF0000;
+	text-transform: uppercase;
+	border-bottom: 3px solid #FF0000;
+}
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 37px;
+}
+.titre{
+	font-weight: bold;
+	font-size: 20px;
+}
+#forma-gauche p{
+	margin-bottom: 37px;
+}
+#exp-gauche p{
+	margin-top: 28px;
+}
+#ixp-gauche p{
+	margin-top: 20px;
+}
+
